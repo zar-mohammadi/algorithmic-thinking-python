@@ -1,6 +1,3 @@
-# algorithmic-thinking-python
-Basic algorithmic exercises implemented in Python
-
 ## Algorithmic Thinking with Python
 
 This repository contains simple Python implementations of basic
